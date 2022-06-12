@@ -2,7 +2,7 @@
 
 I was motivated by my the fact that this is the finaly homework and I wanted to learn how to code an app that sort various functions.
 
-I built this project react, multiple javascript pages and even gitignore. I had no issues connecting the pages. 
+I built this project with react, multiple javascript pages and even gitignore. I had some issues connecting the pages. 
 
 Installation
 
